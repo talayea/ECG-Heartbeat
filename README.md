@@ -1,1 +1,1 @@
-The dataset imported already from kaggle inside the notebook
+The dataset is imported already from kaggle inside the notebook
